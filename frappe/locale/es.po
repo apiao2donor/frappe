@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2024-12-01 09:33+0000\n"
-"PO-Revision-Date: 2024-12-01 19:09\n"
+"PO-Revision-Date: 2024-12-02 19:38\n"
 "Last-Translator: developers@frappe.io\n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -2045,7 +2045,7 @@ msgstr "También se agrega el campo de dependencia de estado {0}"
 #. Label of the login_id (Data) field in DocType 'Email Account'
 #: frappe/email/doctype/email_account/email_account.json
 msgid "Alternative Email ID"
-msgstr "ID de correo electrónico alternativo"
+msgstr "Correo electrónico alternativo"
 
 #. Label of the add_draft_heading (Check) field in DocType 'Print Settings'
 #: frappe/printing/doctype/print_settings/print_settings.json
@@ -8712,12 +8712,12 @@ msgstr "Identificación de correo"
 #. Label of the email_ids (Table) field in DocType 'Contact'
 #: frappe/contacts/doctype/contact/contact.json
 msgid "Email IDs"
-msgstr "IDs de Correo Electrónico"
+msgstr "Correo Electrónico"
 
 #. Label of the email_id (Data) field in DocType 'Contact Us Settings'
 #: frappe/website/doctype/contact_us_settings/contact_us_settings.json
 msgid "Email Id"
-msgstr "Id de Correo Electrónico"
+msgstr "Correo Electrónico"
 
 #. Label of the email_inbox (Section Break) field in DocType 'Communication'
 #: frappe/core/doctype/communication/communication.json
@@ -18993,7 +18993,7 @@ msgstr "Tarta"
 #. Label of the pincode (Data) field in DocType 'Contact Us Settings'
 #: frappe/website/doctype/contact_us_settings/contact_us_settings.json
 msgid "Pincode"
-msgstr "Código PIN"
+msgstr "Código Postal"
 
 #. Option for the 'Color' (Select) field in DocType 'DocType State'
 #. Option for the 'Indicator' (Select) field in DocType 'Kanban Board Column'
@@ -28023,7 +28023,7 @@ msgstr "Utilizar algunas palabras, evitar frases comunes."
 #. Label of the login_id_is_different (Check) field in DocType 'Email Account'
 #: frappe/email/doctype/email_account/email_account.json
 msgid "Use different Email ID"
-msgstr "Utilice un ID de correo electrónico diferente"
+msgstr "Utilice un correo electrónico diferente"
 
 #: frappe/model/db_query.py:426
 msgid "Use of function {0} in field is restricted"
