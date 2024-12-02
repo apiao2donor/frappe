@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2024-11-10 17:35+0000\n"
-"PO-Revision-Date: 2024-12-01 19:09\n"
+"PO-Revision-Date: 2024-12-02 19:37\n"
 "Last-Translator: developers@frappe.io\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -769,7 +769,7 @@ msgstr "DocType (Document Type) används för att infoga formulär i System. For
 
 #: frappe/core/doctype/doctype/doctype.py:1010
 msgid "A DocType's name should start with a letter and can only consist of letters, numbers, spaces, underscores and hyphens"
-msgstr "Ett DocType Namn ska börja med ett bokstav och kan bara bestå av bokstäver, siffror, mellanslag, understreck och bindestreck"
+msgstr "DocType namn ska börja med bokstav och kan bara bestå av bokstäver, siffror, mellanslag, understreck och bindestreck"
 
 #: frappe/website/doctype/blog_post/blog_post.py:93
 msgid "A featured post must have a cover image"
@@ -18832,7 +18832,7 @@ msgstr "Välj Entitet Typ"
 
 #: frappe/core/doctype/system_settings/system_settings.py:108
 msgid "Please select Minimum Password Score"
-msgstr "Välj Minsta Lösenord Nivå"
+msgstr "Välj Minsta Lösenord Värde"
 
 #: frappe/public/js/frappe/views/reports/query_report.js:1112
 msgid "Please select X and Y fields"
