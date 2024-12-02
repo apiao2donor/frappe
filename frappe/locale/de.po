@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2024-12-01 09:33+0000\n"
-"PO-Revision-Date: 2024-12-01 19:09\n"
+"PO-Revision-Date: 2024-12-02 19:38\n"
 "Last-Translator: developers@frappe.io\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -3476,7 +3476,7 @@ msgstr "Anfänger"
 
 #: frappe/public/js/frappe/form/link_selector.js:29
 msgid "Beginning with"
-msgstr "Mit ... anfangen"
+msgstr "Beginnend mit"
 
 #. Label of the beta (Check) field in DocType 'DocType'
 #: frappe/core/doctype/doctype/doctype.json
@@ -4935,12 +4935,12 @@ msgstr "Code Challenge-Methode"
 #: frappe/public/js/frappe/form/form_tour.js:276
 #: frappe/public/js/frappe/widgets/base_widget.js:159
 msgid "Collapse"
-msgstr "Zusammenbruch"
+msgstr "Zuklappen"
 
 #: frappe/public/js/frappe/form/controls/code.js:183
 msgctxt "Shrink code field."
 msgid "Collapse"
-msgstr "Zusammenbruch"
+msgstr "Zuklappen"
 
 #: frappe/public/js/frappe/views/reports/query_report.js:1978
 #: frappe/public/js/frappe/views/treeview.js:122
