@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2024-11-10 17:35+0000\n"
-"PO-Revision-Date: 2024-11-26 17:48\n"
+"PO-Revision-Date: 2024-12-02 19:38\n"
 "Last-Translator: developers@frappe.io\n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -4294,7 +4294,7 @@ msgstr "کانال"
 #. Label of a Link field in DocType 'Dashboard Chart Link'
 #: frappe/desk/doctype/dashboard_chart_link/dashboard_chart_link.json
 msgid "Chart"
-msgstr "چارت سازمانی"
+msgstr "نمودار"
 
 #. Label of a Code field in DocType 'Dashboard Settings'
 #: frappe/desk/doctype/dashboard_settings/dashboard_settings.json
