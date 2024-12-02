@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2024-11-10 17:35+0000\n"
-"PO-Revision-Date: 2024-11-11 13:03\n"
+"PO-Revision-Date: 2024-12-02 19:37\n"
 "Last-Translator: developers@frappe.io\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -4911,12 +4911,12 @@ msgstr "Code Challenge-Methode"
 #: frappe/public/js/frappe/form/form_tour.js:270
 #: frappe/public/js/frappe/widgets/base_widget.js:159
 msgid "Collapse"
-msgstr "Zusammenbruch"
+msgstr "Zuklappen"
 
 #: frappe/public/js/frappe/form/controls/code.js:179
 msgctxt "Shrink code field."
 msgid "Collapse"
-msgstr "Zusammenbruch"
+msgstr "Zuklappen"
 
 #: frappe/public/js/frappe/views/reports/query_report.js:1973
 #: frappe/public/js/frappe/views/treeview.js:110
@@ -21924,7 +21924,7 @@ msgstr "Wenn Sie dies speichern, werden dieses Dokument und die hier verlinkten 
 #: frappe/public/js/print_format_builder/store.js:36
 #: frappe/public/js/workflow_builder/store.js:73
 msgid "Saving..."
-msgstr "Speichern ..."
+msgstr "Wird gespeichert..."
 
 #: frappe/public/js/frappe/scanner/index.js:72
 msgid "Scan QRCode"
@@ -24480,22 +24480,22 @@ msgstr "Buchen"
 #: frappe/website/doctype/web_form/templates/web_form.html:44
 msgctxt "Button in web form"
 msgid "Submit"
-msgstr "Buchen"
+msgstr "Senden"
 
 #: frappe/public/js/frappe/ui/dialog.js:60
 msgctxt "Primary action in dialog"
 msgid "Submit"
-msgstr "Buchen"
+msgstr "Senden"
 
 #: frappe/public/js/frappe/ui/messages.js:97
 msgctxt "Primary action of prompt dialog"
 msgid "Submit"
-msgstr "Buchen"
+msgstr "Senden"
 
 #: frappe/public/js/frappe/desk.js:212
 msgctxt "Submit password for Email Account"
 msgid "Submit"
-msgstr "Buchen"
+msgstr "Bestätigen"
 
 #. Label of a Check field in DocType 'Data Import'
 #: frappe/core/doctype/data_import/data_import.json
@@ -24594,7 +24594,7 @@ msgstr "Untertitel"
 #: frappe/workflow/doctype/workflow_action/workflow_action.py:167
 #: frappe/workflow/doctype/workflow_state/workflow_state.json
 msgid "Success"
-msgstr "Erfolg"
+msgstr "Erfolgreich"
 
 #. Name of a DocType
 #: frappe/core/doctype/success_action/success_action.json
